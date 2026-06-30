@@ -3,10 +3,10 @@ import Container from "./Container";
 import { Link } from "react-router-dom";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Autoplay } from "swiper/modules";
-import "swiper/css";
-import "swiper/css/navigation";
 import { bestSellers } from "@/constants";
 import Button from "@/components/ui/Button";
+import "swiper/css";
+import "swiper/css/navigation";
 
 export default function BestSellers() {
   return (

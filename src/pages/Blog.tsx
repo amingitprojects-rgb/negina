@@ -18,25 +18,25 @@ const blogPosts: BlogItem[] = [
     id: 1,
     title: "خاصیت‌های زعفران ایرانی چیست؟",
     author: "مستوفا زرگوش",
-    image: "src/assets/images/Rectangle-208.png",
+    image: "/images/Rectangle-208.png",
   },
   {
     id: 2,
     title: "خاصیت‌های زعفران ایرانی چیست؟",
     author: "مستوفا زرگوش",
-    image: "src/assets/images/Rectangle-208.png",
+    image: "/images/Rectangle-208.png",
   },
   {
     id: 3,
     title: "خاصیت‌های زعفران ایرانی چیست؟",
     author: "مستوفا زرگوش",
-    image: "src/assets/images/Rectangle-208.png",
+    image: "/images/Rectangle-208.png",
   },
   {
     id: 4,
     title: "خاصیت‌های زعفران ایرانی چیست؟",
     author: "مستوفا زرگوش",
-    image: "src/assets/images/Rectangle-208.png",
+    image: "/images/Rectangle-208.png",
   },
 ];
 
@@ -45,25 +45,25 @@ const products: BlogItem[] = [
     id: 1,
     title: "خاصیت‌های زعفران ایرانی چیست؟",
     author: "مستوفا زرگوش",
-    image: "src/assets/images/Rectangle-208.png",
+    image: "/images/Rectangle-208.png",
   },
   {
     id: 2,
     title: "خاصیت‌های زعفران ایرانی چیست؟",
     author: "مستوفا زرگوش",
-    image: "src/assets/images/Rectangle-208.png",
+    image: "/images/Rectangle-208.png",
   },
   {
     id: 3,
     title: "خاصیت‌های زعفران ایرانی چیست؟",
     author: "مستوفا زرگوش",
-    image: "src/assets/images/Rectangle-208.png",
+    image: "/images/Rectangle-208.png",
   },
   {
     id: 4,
     title: "خاصیت‌های زعفران ایرانی چیست؟",
     author: "مستوفا زرگوش",
-    image: "src/assets/images/Rectangle-208.png",
+    image: "/images/Rectangle-208.png",
   },
 ];
 
@@ -174,7 +174,7 @@ export default function Blog() {
     <main dir="rtl" className="min-h-screen">
       <section className="w-full px-2 sm:px-4 lg:w-[90%] lg:px-0 mx-auto mt-4">
         <img
-          src="/src/assets/images/Rectangle-200.png"
+          src="/images/Rectangle-200.png"
           alt="زرپران"
           loading="lazy"
           className="w-full h-auto rounded-2xl"
@@ -186,7 +186,7 @@ export default function Blog() {
           <div className="grid grid-cols-1 gap-4 sm:gap-5 lg:grid-cols-4">
             <div className="lg:col-span-2 lg:row-span-2">
               <img
-                src="/src/assets/images/Rectangle-201.png"
+                src="/images/Rectangle-201.png"
                 className="w-full h-auto rounded-2xl sm:rounded-3xl"
                 loading="lazy"
                 alt="طلای سرخ ایران"
@@ -195,7 +195,7 @@ export default function Blog() {
 
             <div className="lg:col-span-2">
               <img
-                src="src/assets/images/Rectangle-202.png"
+                src="/images/Rectangle-202.png"
                 className="w-full h-auto rounded-2xl sm:rounded-3xl"
                 loading="lazy"
                 alt="از مزرعه تا طلای سرخ ایران"
@@ -204,7 +204,7 @@ export default function Blog() {
 
             <div className="lg:col-span-2">
               <img
-                src="src/assets/images/Rectangle-203.png"
+                src="/images/Rectangle-203.png"
                 className="w-full h-auto rounded-2xl sm:rounded-3xl"
                 loading="lazy"
                 alt="زعفران"

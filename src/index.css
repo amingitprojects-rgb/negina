@@ -6,10 +6,10 @@
 @font-face {
   font-family: "Vazir";
   src:
-    url(../src/assets/fonts/vazir/Vazir-Medium.eot),
-    url(../src/assets/fonts/vazir/Vazir-Medium.ttf),
-    url(../src/assets/fonts/vazir/Vazir-Medium.woff),
-    url(../src/assets/fonts/vazir/Vazir-Medium.woff2);
+    url(/public/fonts/vazir/Vazir-Medium.eot),
+    url(/public/fonts/vazir/Vazir-Medium.ttf),
+    url(/public/fonts/vazir/Vazir-Medium.woff),
+    url(/public/fonts/vazir/Vazir-Medium.woff2);
 }
 
 * {

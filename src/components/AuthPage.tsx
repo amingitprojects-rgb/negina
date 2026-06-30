@@ -1,5 +1,5 @@
 import React from "react";
-import bgAuthPage from "../assets/images/bg-authpage.jpg"
+const bgAuthPage = "/images/bg-authpage.jpg";
 
 interface Props {
   children: React.ReactNode;

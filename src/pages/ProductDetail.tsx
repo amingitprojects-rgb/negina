@@ -18,10 +18,10 @@ import { Navigation } from "swiper/modules";
 import "swiper/css";
 
 const productImages = [
-  "/images/placeholder-product.svg",
-  "/images/placeholder-product.svg",
-  "/images/placeholder-product.svg",
-  "/images/placeholder-product.svg",
+  "/images/Rectangle-208.png",
+  "/images/Rectangle-200.png",
+  "/images/Rectangle-201.png",
+  "/images/Rectangle-202.png",
 ];
 
 interface RelatedProduct {

@@ -1,10 +1,10 @@
 import { useEffect, useState } from "react";
-import slideDesktop01 from "../assets/images/slide01-desktop.webp";
-import slideDesktop002 from "../assets/images/slide02-desktop.webp";
-import slideDesktop003 from "../assets/images/slide03-desktop.webp";
-import slideMobile01 from "../assets/images/slide01-mobile.webp";
-import slideMobile02 from "../assets/images/slide02-mobile.webp";
-import slideMobile03 from "../assets/images/slide03-mobile.webp";
+const slideDesktop01 = "/images/slide01-desktop.webp";
+const slideDesktop002 = "/images/slide02-desktop.webp";
+const slideDesktop003 = "/images/slide03-desktop.webp";
+const slideMobile01 = "/images/slide01-mobile.webp";
+const slideMobile02 = "/images/slide02-mobile.webp";
+const slideMobile03 = "/images/slide03-mobile.webp";
 import Button from "./ui/Button";
 import { Link } from "react-router-dom";
 import { ChevronRight, ChevronLeft } from "lucide-react";

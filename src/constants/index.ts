@@ -4,7 +4,7 @@ export const bestSellers = [
     title: "فروشگاه احمدی",
     tags: ["10 هزار فروش در ماه", "رضایت 97 درصدی مشتریان"],
     image:
-      "/images/placeholder-store.svg",
+      "/images/Rectangle-208.png",
     stars: 4,
   },
   {
@@ -12,7 +12,7 @@ export const bestSellers = [
     title: "فروشگاه احمدی",
     tags: ["10 هزار فروش در ماه", "رضایت 97 درصدی مشتریان"],
     image:
-      "/images/placeholder-store.svg",
+      "/images/Rectangle-208.png",
     stars: 4,
   },
   {
@@ -20,7 +20,7 @@ export const bestSellers = [
     title: "فروشگاه احمدی",
     tags: ["10 هزار فروش در ماه", "رضایت 97 درصدی مشتریان"],
     image:
-      "/images/placeholder-store.svg",
+      "/images/Rectangle-208.png",
     stars: 4,
   },
   {
@@ -28,7 +28,7 @@ export const bestSellers = [
     title: "فروشگاه احمدی",
     tags: ["10 هزار فروش در ماه", "رضایت 97 درصدی مشتریان"],
     image:
-      "/images/placeholder-store.svg",
+      "/images/Rectangle-208.png",
     stars: 4,
   },
     {
@@ -36,7 +36,7 @@ export const bestSellers = [
     title: "فروشگاه احمدی",
     tags: ["10 هزار فروش در ماه", "رضایت 97 درصدی مشتریان"],
     image:
-      "/images/placeholder-store.svg",
+      "/images/Rectangle-208.png",
     stars: 4,
   },
     {
@@ -44,7 +44,7 @@ export const bestSellers = [
     title: "فروشگاه احمدی",
     tags: ["10 هزار فروش در ماه", "رضایت 97 درصدی مشتریان"],
     image:
-      "/images/placeholder-store.svg",
+      "/images/Rectangle-208.png",
     stars: 4,
   },
     {
@@ -52,7 +52,7 @@ export const bestSellers = [
     title: "فروشگاه احمدی",
     tags: ["10 هزار فروش در ماه", "رضایت 97 درصدی مشتریان"],
     image:
-      "/images/placeholder-store.svg",
+      "/images/Rectangle-208.png",
     stars: 4,
   },
     {
@@ -60,7 +60,7 @@ export const bestSellers = [
     title: "فروشگاه احمدی",
     tags: ["10 هزار فروش در ماه", "رضایت 97 درصدی مشتریان"],
     image:
-      "/images/placeholder-store.svg",
+      "/images/Rectangle-208.png",
     stars: 4,
   },
     {
@@ -68,7 +68,7 @@ export const bestSellers = [
     title: "فروشگاه احمدی",
     tags: ["10 هزار فروش در ماه", "رضایت 97 درصدی مشتریان"],
     image:
-      "/images/placeholder-store.svg",
+      "/images/Rectangle-208.png",
     stars: 4,
   },
 ];
@@ -86,7 +86,7 @@ const samplePost = (id: number): BlogPost => ({
   title: "خاصیت‌های زعفران ایرانی چیست؟",
   author: "محمدباقر بزرگی",
   avatar: "/images/placeholder-product.svg",
-  image: "/src/assets/images/slide01-desktop.webp",
+  image: "/images/slide01-desktop.webp",
 });
 
 export const suggestedPosts: BlogPost[] = Array.from({ length: 6 }, (_, i) =>

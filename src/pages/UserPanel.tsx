@@ -10,7 +10,7 @@ import {
   User,
   Wallet,
 } from "lucide-react";
-import userImg from "../assets/images/bg-authpage.jpg";
+const userImg = "/images/bg-authpage.jpg";
 import { NavLink, Outlet } from "react-router-dom";
 
 export default function UserPanelLayout() {
